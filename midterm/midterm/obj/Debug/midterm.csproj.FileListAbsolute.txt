@@ -1,0 +1,12 @@
+c:\users\경태\documents\visual studio 2013\Projects\midterm\midterm\bin\Debug\midterm.exe.config
+c:\users\경태\documents\visual studio 2013\Projects\midterm\midterm\bin\Debug\midterm.exe
+c:\users\경태\documents\visual studio 2013\Projects\midterm\midterm\bin\Debug\midterm.pdb
+c:\users\경태\documents\visual studio 2013\Projects\midterm\midterm\obj\Debug\midterm.exe
+c:\users\경태\documents\visual studio 2013\Projects\midterm\midterm\obj\Debug\midterm.pdb
+C:\Users\경태\Documents\Visual Studio 2013\Projects\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+C:\Users\경태\Documents\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\경태\Documents\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\경태\Documents\midterm\midterm\obj\Debug\midterm.pdb
+C:\Users\경태\Documents\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+C:\Users\경태\Documents\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\경태\Documents\midterm\midterm\bin\Debug\midterm.pdb
